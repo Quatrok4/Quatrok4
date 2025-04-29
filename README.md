@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Lourenço, tenho 23 anos e sou natural do Rio de Janeiro. Concluí o ensino médio, Tenho curso técnico De Operador de Suporte Tecnico em TI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM. Sou apaixonadO por tecnologia e sempre estou em busca do conhecimento.
+Me chamo Lucas Lourenço, tenho 23 anos e sou natural do Rio de Janeiro. Concluí o ensino médio, Tenho curso técnico De Operador de Suporte Tecnico em TI. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISUAM. Sou apaixonado por tecnologia e sempre estou em busca do conhecimento.
 
 <p align="left">
     </a> 
