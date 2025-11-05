@@ -60,11 +60,11 @@ Me chamo Lucas LourenÃ§o, tenho 23 anos e sou natural do Rio de Janeiro. ConcluÃ
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Python"
+    title="python" 
     width="30px" 
     style="padding-right: 10px;" 
-    scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     />
     
 <br/>
