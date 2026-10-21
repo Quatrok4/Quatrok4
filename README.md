@@ -61,6 +61,18 @@ Mod client-side desenvolvido para **Minecraft 26.3 com Fabric**, que permite vis
 O mod funciona exclusivamente no cliente, sem colocar blocos automaticamente ou enviar ações de construção ao servidor.
 
 
+### 💈 Barbearia Prime — App mobile de agendamento
+
+Aplicativo mobile para barbearias, com agendamento de horários e gestão de clientes.
+
+**Principais recursos:**
+- 📅 Agendamento de horários.
+- 👥 Gestão de clientes.
+- 🔐 Backend com banco de dados em nuvem.
+- 📲 Build Android distribuída via EAS (APK).
+
+**Tecnologias:** React Native, Expo, TypeScript e Supabase.  
+
 
 ### 💇 Studio Agenda Pro — Gestão para profissionais de beleza
 
@@ -74,6 +86,7 @@ Sistema voltado à gestão de salões e profissionais de beleza, com foco na org
 - 🔗 Agendamento online.
 
 🌐 [Acessar o Studio Agenda Pro](https://www.studioagendapro.com.br/)
+
 
 ### 🤖 Bots e sistemas personalizados
 
